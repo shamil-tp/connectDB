@@ -1,5 +1,5 @@
 {
-  "name": "connectdb",
+  "name": "@shamil-tp/connectdb",
   "version": "1.0.0",
   "description": "A simple function that sets up MongoDB connection for Mongoose",
   "main": "src/index.js",
