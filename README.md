@@ -17,3 +17,4 @@ A lightweight MongoDB connection utility for Node.js using Mongoose.
 
 ```bash
 npm install @shamil-tp/connectdb
+```
