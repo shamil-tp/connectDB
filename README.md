@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@shamil-tp/connectdb.svg)](https://www.npmjs.com/package/@shamil-tp/connectdb)
 [![npm downloads](https://img.shields.io/npm/dm/@shamil-tp/connectdb.svg)](https://www.npmjs.com/package/@shamil-tp/connectdb)
-[![license](https://img.shields.io/npm/l/@shamil-tp/connectdb.svg)](https://github.com/shamil-tp/connectDB/blob/main/LICENSE.md)
+[![license](https://img.shields.io/npm/l/@shamil-tp/connectdb.svg?v=1)](https://github.com/shamil-tp/connectDB/blob/main/LICENSE.md)
 
 A lightweight MongoDB connection utility for Node.js using Mongoose.
 
