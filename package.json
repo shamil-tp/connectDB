@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "a simple function that setups mongodb connection for mongoose",
   "keywords": [
-    "[\"js\"",
-    "\"connectdb\"",
-    "\"mongoose\"]"
+    "js",
+    "connectdb",
+    "mongoose"
   ],
   "homepage": "https://github.com/shamil-tp/connectDB#readme",
   "bugs": {
@@ -20,6 +20,9 @@
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "node --test test/connect.test.js"
+  },
+  "dependencies": {
+    "mongoose": "^9.11.4"
   }
 }
