@@ -8,7 +8,9 @@
     "src/"
   ],
   "scripts": {
-    "test": "node --test test/connect.test.js"
+    "test": "node --test test/connect.test.js",
+    "publish:npm": "npm publish --access public --registry=https://registry.npmjs.org",
+    "publish:github": "npm publish --registry=https://npm.pkg.github.com"
   },
   "keywords": [
     "js",
