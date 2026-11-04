@@ -1,0 +1,25 @@
+{
+  "name": "connectdb",
+  "version": "1.0.0",
+  "description": "a simple function that setups mongodb connection for mongoose",
+  "keywords": [
+    "[\"js\"",
+    "\"connectdb\"",
+    "\"mongoose\"]"
+  ],
+  "homepage": "https://github.com/shamil-tp/connectDB#readme",
+  "bugs": {
+    "url": "https://github.com/shamil-tp/connectDB/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamil-tp/connectDB.git"
+  },
+  "license": "MIT",
+  "author": "shamil-tp",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}
