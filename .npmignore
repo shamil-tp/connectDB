@@ -6,3 +6,6 @@ tests/
 .editorconfig
 *.test.js
 *.spec.js
+# Authentication & Local Secrets
+.npmrc
+.env
